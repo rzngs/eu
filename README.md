@@ -3,7 +3,7 @@
 - Meu nome é Rogério
 - Estou no [Alura](www.alura.com.br)
 
-### CONTATO:
+### CONTATO :
 
 rogerio.gapski.silva@escola.pr.gov.br
 
